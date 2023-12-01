@@ -6,19 +6,7 @@
 #define C___WEBSERVER2_0_CELLNETWORK_H
 #include "CELL.h"
 class CELLNetWork{
-    /**
-     * 启动socket环境
-     *
-     *
-     * */
-     /**
-      * int main() {
-    CELLNetWork::Init();
-    return 0;
-}
-      *
-      *
-      * */
+
 private:
     CELLNetWork(){
 #ifdef _WIN32
