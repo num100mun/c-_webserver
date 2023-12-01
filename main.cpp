@@ -1,8 +1,1 @@
-using System
 
-
-
-
-int main(){
-
-}
