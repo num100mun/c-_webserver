@@ -42,20 +42,20 @@ int main(){
     CELLlog::Instance().setLogPath("serverLog.txt","w");
     EasyTcpServer server;
     server.InitSocket();
-    server.Bind(nullptr, 4550);
-    server.Listen(64);
-    server.Start(4);
-    while (true){
-        char cmdBuf[256] = {};
-        scanf("%s", cmdBuf);
-        if (0 == strcmp(cmdBuf, "exit")){
-            server.Close();
-            break;
-        }
-        else {
-            CELLlog::Info("undefine cmd\n");
-        }
-    }
-    CELLlog::Info("exit.\n");
-    return 0;
+//    server.Bind(nullptr, 4550);
+//    server.Listen(64);
+//    server.Start(4);
+//    while (true){
+//        char cmdBuf[256] = {};
+//        scanf("%s", cmdBuf);
+//        if (0 == strcmp(cmdBuf, "exit")){
+//            server.Close();
+//            break;
+//        }
+//        else {
+//            CELLlog::Info("undefine cmd\n");
+//        }
+//    }
+//    CELLlog::Info("exit.\n");
+//    return 0;
 }

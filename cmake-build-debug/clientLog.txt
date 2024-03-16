@@ -1,0 +1,28 @@
+Info [2023-12-1 12:56:21]CELLLog::setLogPath success,<clientLog.txt,w>
+Info [2023-12-1 12:56:21]thread<3>,start
+Info [2023-12-1 12:56:21]thread<4>,start
+Info [2023-12-1 12:56:21]thread<2>,start
+Info [2023-12-1 12:56:21]thread<1>,start
+Info [2023-12-1 12:56:21]thread<3>,Connect<begin=200, end=300>
+Info [2023-12-1 12:56:21]thread<4>,Connect<begin=300, end=400>
+Info [2023-12-1 12:56:22]thread<4>,clients<400>,time<1.000570>,send<0>
+Info [2023-12-1 12:56:22]thread<2>,Connect<begin=100, end=200>
+Info [2023-12-1 12:56:22]thread<1>,Connect<begin=0, end=100>
+Info [2023-12-1 12:56:23]thread<4>,clients<400>,time<1.000137>,send<311228>
+Info [2023-12-1 12:56:24]thread<4>,clients<400>,time<1.000626>,send<1674612>
+Info [2023-12-1 12:56:25]thread<4>,clients<400>,time<1.000068>,send<212797>
+Info [2023-12-1 12:56:26]thread<4>,clients<400>,time<1.000518>,send<105981>
+Info [2023-12-1 12:56:27]thread<4>,clients<400>,time<1.000585>,send<55330>
+Info [2023-12-1 12:56:28]thread<4>,clients<400>,time<1.000954>,send<40761>
+Info [2023-12-1 12:56:29]thread<4>,clients<400>,time<1.000388>,send<40784>
+Info [2023-12-1 12:56:30]thread<4>,clients<400>,time<1.000677>,send<40772>
+Info [2023-12-1 12:56:31]thread<4>,clients<400>,time<1.000084>,send<395341>
+Info [2023-12-1 12:56:32]thread<4>,clients<400>,time<1.000502>,send<520202>
+Info [2023-12-1 12:56:33]thread<4>,clients<400>,time<1.000909>,send<678155>
+Info [2023-12-1 12:56:34]thread<4>,clients<400>,time<1.000772>,send<89583>
+Info [2023-12-1 12:56:35]thread<4>,clients<400>,time<1.000058>,send<87686>
+Info [2023-12-1 12:56:36]thread<4>,clients<400>,time<1.000703>,send<40780>
+Info [2023-12-1 12:56:37]thread<4>,clients<400>,time<1.000720>,send<2739532>
+Info [2023-12-1 12:56:38]thread<4>,clients<400>,time<1.000178>,send<1673009>
+Info [2023-12-1 12:56:39]thread<4>,clients<400>,time<1.000543>,send<44469>
+Info [2023-12-1 12:56:40]thread<4>,clients<400>,time<1.000528>,send<1559785>
